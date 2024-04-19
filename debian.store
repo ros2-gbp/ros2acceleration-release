@@ -1,1 +1,1 @@
-{"base": "bd6e500", "parent": "debian/rolling/ros2acceleration", "previous": "3538d7b", "trim": "", "trimbase": ""}
+{"base": "e8e4069", "parent": "debian/jazzy/ros2acceleration", "previous": "f3eb5db", "trim": "", "trimbase": ""}
